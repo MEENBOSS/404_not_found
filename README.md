@@ -8,7 +8,7 @@
 
 <div align="center">
   <h3>
-    <a href="https://{your-demo-link.your-domain}">
+    <a href="https://404-not-found-by-ameen.netlify.app/">
       Demo
     </a>
     <span> | </span>
@@ -40,7 +40,7 @@
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
-- Where can I see your demo? you can see my demo [here]()
+- Where can I see your demo? you can see my demo [here](https://404-not-found-by-ameen.netlify.app/)
 - What was your experience? very nice
 - What have you learned/improved? i learned more on the use of flex  box 
 - Your wisdom? don't give up :)

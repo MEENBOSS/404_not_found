@@ -78,6 +78,7 @@ header {
     font-weight: 700;
     line-height: normal;
     letter-spacing: -0.49px;
+    cursor: pointer;
     /* width: 216px; */
 }
 
