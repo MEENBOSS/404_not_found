@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://{your-url-to-the-solution}">
+    <a href="https://github.com/MEENBOSS/404_not_found">
       Solution
     </a>
     <span> | </span>
@@ -41,9 +41,9 @@
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
 - Where can I see your demo? you can see my demo [here]()
-- What was your experience?
-- What have you learned/improved?
-- Your wisdom? :)
+- What was your experience? very nice
+- What have you learned/improved? i learned more on the use of flex  box 
+- Your wisdom? don't give up :)
 
 ### Built With
 
